@@ -2,6 +2,7 @@
 
 The goal of the project is to establish and connect servers from different countries, send and receive requests, and Email (using Mail Server).
 ## Tools Used: [Cisco Packet Tracer](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)
+You can download the software and test the network by a given network project.pkt file
 ## Server Used in this project:
 - FTP Server and TFTP Server
 - NTP Server or TIME Server
